@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aisha-razzaq, Currently doing bachelors in Computer Science
+- 👀 I’m interested in, web development, software development, networking and documentation
+- 📫 How to reach me ... email: aisharazzaq000@gmail.com
